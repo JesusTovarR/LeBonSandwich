@@ -76,10 +76,7 @@ $alertBackgroundColor:#FFFFF;
 $backgroundJumbotron:gray;
 $textJumbotronColor:black;
 @include jumbotron($backgroundJumbotron ,$textJumbotronColor);
-/*
-$colorLi:pink;
-$textCouleurLi:black;
-@include Navegation($colorLi, $textCouleurLi);*/
+
 
 /*grille*/
 $columns_number:8;
